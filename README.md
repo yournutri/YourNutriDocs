@@ -3,7 +3,9 @@
 ## Introduction
 
 Ce document fournit les liens vers les différentes documentations de la plateforme YourNutri (https://www.yournutri.ch - https://app.yournutri.ch).
+
 Dieses Dokument enthält Links zu den verschiedenen Dokumentationen der YourNutri-Plattform (https://www.yournutri.ch - https://app.yournutri.ch).
+
 This document provides links to the YourNutri platform documentation (https://www.yournutri.ch - https://app.yournutri.ch).
 
 ## Table des matières
@@ -14,7 +16,7 @@ This document provides links to the YourNutri platform documentation (https://ww
 
 ## Documentation en français
 
-
+https://github.com/yournutri/YourNutriDocsFR
 
 ## English documentation
 
