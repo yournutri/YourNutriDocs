@@ -20,8 +20,8 @@ https://github.com/yournutri/YourNutriDocsFR
 
 ## English documentation
 
-In progress...
+In progress... Please use the French version and translate the text.
 
 ## Dokumentation auf Deutsch
 
-In Arbeit...
+In Arbeit... Bitte verwenden Sie die französische Version und übersetzen Sie den Text.
